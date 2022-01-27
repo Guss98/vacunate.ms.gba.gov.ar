@@ -1,6 +1,12 @@
 .img {
     height: 100%;
+    width: 100%;
     align-items: center;
-    margin-left: 450px;
-    margin-top: 0px;
+    justify-content: center;
+}
+
+.cert {
+    margin-left: 500px;
+    height: 100%;
+    width: 30%;
 }
